@@ -19,7 +19,7 @@ Why this problem can be summed up in this as "**maintenance costs ⏱️ and �
 * 🏭 **Company** - not requiring maintenance crews to be on site throughout the year saves on costs. This money can then be fed back into the business and better utilised.
 
 ## Idea used for the modelling
-`tsai` contains `SlidingWindow`. This allows you to take the data and split it into subsets of data where the Xs are all inputs over the window period and Y is the value for e.g. the Y value after the period. It can be represented as this. I've found it very useful to setup data for time series work.
+`tsai` contains `SlidingWindow`. This allows you to take the data and split it into subsets of data where the Xs are all inputs over the window period and Y is the value for e.g. the Y value after the period. It can be represented as like this example below for 3 hours windows predicting the next 30 minute slot. I've found it very useful to setup data for time series work.
 ![image](https://user-images.githubusercontent.com/70057706/109543101-d66ff080-7abd-11eb-8f92-5b4aff5661e1.png)
 
 ## Residual Dynamics
