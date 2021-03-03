@@ -6,7 +6,7 @@ When will an electrophoresis plant require maintenance? Predicting if it will re
 ## Why this was done
 Time series data is a new challenge for me and I wanted to combine this with a library I've been exploring `tsai` (fastai extension focused on time series). 
 
-Why this problem can be summed up in this as "**maintenance costs ⏱️ and 💰**". 
+Why this predictive maintenance? This can be summed up in this as "**maintenance costs ⏱️ and 💰**". 
 
 * If you are running a manufacturing plant or in this case a electrophoresis plant, machinery will require maintenance. 
 * If it is not maintained you can have delays in production/progress whether it's a fault that needs to be fixed or even clean up work if leakages occur. 
