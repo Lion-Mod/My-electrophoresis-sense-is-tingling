@@ -28,4 +28,5 @@ During training and experiments I created a callback using `fastai`'s framework 
 ### Visually
 Blue = residual dynamics
 Green = prediction dynamics
-![residualdynamicsexample](https://user-images.githubusercontent.com/70057706/109860509-2a154200-7c56-11eb-9f14-d273e4408ab7.gif)
+![residualdynamicsexample](https://user-images.githubusercontent.com/70057706/109861048-c93a3980-7c56-11eb-9b41-805f33948caa.gif)
+
