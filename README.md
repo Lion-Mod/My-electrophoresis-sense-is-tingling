@@ -6,12 +6,12 @@ When will an electrophoresis plant require maintenance? Predicting if it will re
 ## Why this was done
 Time series data is a new challenge for me and I wanted to combine this with a library I've been exploring `tsai` (fastai extension focused on time series). 
 
-Why this predictive maintenance? This can be summed up in this as "**maintenance costs ⏱️ and 💰**". 
+Why forecast maintenance? This can be summed up in this as "**maintenance costs ⏱️ and 💰**". 
 
-* If you are running a manufacturing plant or in this case a electrophoresis plant, machinery will require maintenance. 
+* If you are running a manufacturing plant or in this case a electrophoresis plant, maintenance will be required.
 * If it is not maintained you can have delays in production/progress whether it's a fault that needs to be fixed or even clean up work if leakages occur. 
 * Maintenance can be solved by having people on duty (night and day) to be ready in the event of a failure. 
-* The issue with this is that it costs money to have someone on site nearly 24/7 and the people on duty aren't necessarily enjoying their work as nothing may be occuring. This model could lessen that.
+* The issue with this is that it costs money to have someone on site nearly 24/7 and the people on duty aren't necessarily enjoying their work as nothing may be occuring. This model could lessen that by forecasting where maintenance may be required.
 
 For this particular domain maintenance teams within an electrophoresis plant need to be away of potential dips in flow rate as the core manufacturing process will not be supplied with sufficient material and may cause product defect.
 
