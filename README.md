@@ -26,7 +26,9 @@ Why this problem can be summed up in this as "**maintenance costs ⏱️ and �
 During training and experiments I created a callback using `fastai`'s framework called `ResidualDynamics` ![repo](https://github.com/Lion-Mod/ResidualDynamics). I took inspiration from another callback `PredictionDynamics` which plots ground truth against predictions but I was keen to see residuals more clearly to see if the model is over or underpredicting.
 
 ### Visually
-* <span style="color:blue">*Blue*</span> = residual dynamics
-* <span style="color:green">*Green*</span> = prediction dynamics
+```diff
+* Blue = residual dynamics
++ Green = prediction dynamics
+```
 ![residualdynamicsexample](https://user-images.githubusercontent.com/70057706/109861048-c93a3980-7c56-11eb-9b41-805f33948caa.gif)
 
