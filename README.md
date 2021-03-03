@@ -13,6 +13,8 @@ Why this predictive maintenance? This can be summed up in this as "**maintenance
 * Maintenance can be solved by having people on duty (night and day) to be ready in the event of a failure. 
 * The issue with this is that it costs money to have someone on site nearly 24/7 and the people on duty aren't necessarily enjoying their work as nothing may be occuring. This model could lessen that.
 
+For this particular domain maintenance teams within an electrophoresis plant need to be away of potential dips in flow rate as the core manufacturing process will not be supplied with sufficient material and may cause product defect.
+
 ## Who this benefits
 * 👨‍🏭 **Plant management** - if you can identify periods of time that may require maintenance you do not have to be inefficient with time and monitor equipment and people all the time. As a plant manager you may need to know about 100 things that are occuring at the same time but if you can forecast some of them accurately you can reduce this number. As well as this maintenance crews can be deployed or told when to be on call rather than requiring them to be on site nearly 24/7 throughout the year, even holidays. If there is a high likelihood of equipment requiring maintenance and there isn't a part in the inventory you can order it before the maintenance is required stopping the potential delay from not have equipment up and running.
 * 🛠️ **Maintenance crews** - no one wants to be on call or on site for hours at a time and not be required to repair anything. If the model forecast is accurate you can have them on site only when they are required thus making them not have to be on site when not needed, making them happier in the process.
