@@ -4,7 +4,7 @@
 When will an electrophoresis plant require maintenance? Predicting if it will require maintenance using previous values of sensor readings.
 
 ## Why this was done
-Time series data is a new challenge for me and I wanted to combine this with a library I've been exploring `tsai` (fastai extension focused on time series). 
+Time series data is a new challenge for me and I wanted to combine this with a library I've been exploring `tsai` ![repo](https://github.com/timeseriesAI/tsai) created by *Ignacio Oguiza* (fastai extension focused on time series). 
 
 Why forecast maintenance? This can be summed up in this as "**maintenance costs ⏱️ and 💰**". 
 
